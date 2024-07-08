@@ -1,1 +1,3 @@
-simulando conflicto
+Primera linea de texto
+Nueva linea
+Mi color favorito es el negro
